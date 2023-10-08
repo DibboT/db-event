@@ -1,0 +1,50 @@
+ [
+      {
+        "id" : 1,
+        "name": "Gaming Workshop",
+        "image": "workshop.jpg",
+        "price": "100",
+        "shortDescription": "Learn game design, streaming techniques, and more in our interactive workshops."
+      },
+      {
+        "id" : 2,
+        "name": "Cosplay Contest",
+        "image": "cosplay.jpg",
+        "price": "150",
+        "shortDescription": "Show off your creative side and compete in our exciting cosplay contest. Prizes for the best costumes!"
+      },
+      {
+        "id" : 3,
+        "name": "Esports Tournament",
+        "image": "esports.jpg",
+        "price": "250",
+        "shortDescription": "Compete in thrilling esports battles against top teams and players for glory and cash prizes."
+      },
+      {
+        "id" : 4,
+        "name": "Gaming Convention Pass",
+        "image": "convention.jpg",
+        "price": "350",
+        "shortDescription": "Access all areas of our gaming convention, featuring game showcases, panels, and more!",
+        "button": {
+          "text": "Get Your Pass",
+          "link": "https://example.com/convention-pass"
+        }
+      },
+      {
+        "id" : 5,
+        "name": "VR Gaming Experience",
+        "image": "vr.jpg",
+        "price": "270",
+        "shortDescription": "Dive into virtual reality with our state-of-the-art VR gaming setups. The future of gaming is here!"
+      },
+      {
+        "id" : 6,
+        "name": "Gaming Merchandise Booth",
+        "image": "merchandise.jpg",
+        "price": "350",
+        "shortDescription": "Explore a wide range of gaming merchandise, from apparel to collectibles, at our booth."
+      }
+    ]
+  
+  
