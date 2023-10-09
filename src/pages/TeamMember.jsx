@@ -6,8 +6,8 @@ import 'owl.carousel/dist/assets/owl.theme.default.css';
 
 const TeamMember = () => {
     return (
-        <div className="">
-            <h2 className='text-center my-10 text-3xl'>Our Team Members</h2>
+        <div className="my-14">
+            <h2 className='text-center my-10 text-3xl font-semibold'>Our Team Members</h2>
             <div>
                 <OwlCarousel className='owl-theme' autoplay loop margin={10} nav>
                     <div>

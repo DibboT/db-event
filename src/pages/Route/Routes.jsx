@@ -5,6 +5,8 @@ import Home from "../Home";
 import AboutUs from "../About Us/AboutUs";
 import Login from "../Login/Login";
 import Register from "../Register/Register";
+import AuthGuard from "../../AuthGuard";
+import ServiceDetails from "../Services/ServiceDetails"
 
 
 const router = createBrowserRouter([
@@ -27,6 +29,10 @@ const router = createBrowserRouter([
             {
                 path: '/register',
                 element: <Register></Register>
+            },
+            {
+                path: '/servicedetails',
+                element: <AuthGuard><ServiceDetails></ServiceDetails></AuthGuard>
             }
         ]
     }

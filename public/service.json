@@ -2,28 +2,28 @@
       {
         "id" : 1,
         "name": "Gaming Workshop",
-        "image": "workshop.jpg",
+        "image": "https://i.ibb.co/0VPBSvG/gamingworkshop.webp",
         "price": "100",
         "shortDescription": "Learn game design, streaming techniques, and more in our interactive workshops."
       },
       {
         "id" : 2,
-        "name": "Cosplay Contest",
-        "image": "cosplay.jpg",
+        "name": "PUBG: BATTLEGROUNDS Weeks",
+        "image": "https://i.ibb.co/r3NvPMp/PUGB.jpg",
         "price": "150",
         "shortDescription": "Show off your creative side and compete in our exciting cosplay contest. Prizes for the best costumes!"
       },
       {
         "id" : 3,
         "name": "Esports Tournament",
-        "image": "esports.jpg",
+        "image": "https://s.yimg.com/os/creatr-images/2019-10/34f8a030-fb52-11e9-9ff9-491795013450",
         "price": "250",
         "shortDescription": "Compete in thrilling esports battles against top teams and players for glory and cash prizes."
       },
       {
         "id" : 4,
         "name": "Gaming Convention Pass",
-        "image": "convention.jpg",
+        "image": "https://image.cnbcfm.com/api/v1/image/105485043-1538560460468gettyimages-1042695306.jpeg?v=1541788519",
         "price": "350",
         "shortDescription": "Access all areas of our gaming convention, featuring game showcases, panels, and more!",
         "button": {
@@ -34,16 +34,16 @@
       {
         "id" : 5,
         "name": "VR Gaming Experience",
-        "image": "vr.jpg",
+        "image": "https://i.ibb.co/9qznHvb/vrexperince.jpg",
         "price": "270",
         "shortDescription": "Dive into virtual reality with our state-of-the-art VR gaming setups. The future of gaming is here!"
       },
       {
         "id" : 6,
-        "name": "Gaming Merchandise Booth",
-        "image": "merchandise.jpg",
-        "price": "350",
-        "shortDescription": "Explore a wide range of gaming merchandise, from apparel to collectibles, at our booth."
+        "name": "Roobet Cup 2023Roobet Cup 2023",
+        "image": "https://i.ibb.co/5W00Grs/roobetcup2023.jpg",
+        "price": "550",
+        "shortDescription": "The Roobet Cup is a European CS:GO tournament all set to take place from 22nd to 30th June, featuring a total prize pool of $250,000 USD (INR 1,95,79,875) with 16 teams set to compete in this tier-two online tournament being organized by Relog Media."
       }
     ]
   
